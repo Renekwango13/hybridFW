@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="12" passed="12" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-10T07:05:36 CDT" name="Suite" finished-at="2024-04-10T07:07:42 CDT" duration-ms="125552">
+    <groups>
+    </groups>
+    <test started-at="2024-04-10T07:05:36 CDT" name="Test" finished-at="2024-04-10T07:07:42 CDT" duration-ms="125552">
+      <class name="com.FWTestCases.SearchTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.FWTestCases.SearchTest@43195e57]" started-at="2024-04-10T07:05:37 CDT" name="setup" finished-at="2024-04-10T07:05:57 CDT" duration-ms="19370" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="searchValidProduct()[pri:1, instance:com.FWTestCases.SearchTest@43195e57]" started-at="2024-04-10T07:05:57 CDT" name="searchValidProduct" finished-at="2024-04-10T07:05:58 CDT" duration-ms="1328" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchValidProduct -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.FWTestCases.SearchTest@43195e57]" started-at="2024-04-10T07:05:58 CDT" name="tearDown" finished-at="2024-04-10T07:05:59 CDT" duration-ms="1164" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.FWTestCases.SearchTest@43195e57]" started-at="2024-04-10T07:05:59 CDT" name="setup" finished-at="2024-04-10T07:06:10 CDT" duration-ms="10854" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="searchInValidProduct()[pri:2, instance:com.FWTestCases.SearchTest@43195e57]" started-at="2024-04-10T07:06:10 CDT" name="searchInValidProduct" finished-at="2024-04-10T07:06:11 CDT" duration-ms="986" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchInValidProduct -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.FWTestCases.SearchTest@43195e57]" started-at="2024-04-10T07:06:11 CDT" name="tearDown" finished-at="2024-04-10T07:06:11 CDT" duration-ms="353" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.FWTestCases.SearchTest@43195e57]" started-at="2024-04-10T07:06:11 CDT" name="setup" finished-at="2024-04-10T07:06:18 CDT" duration-ms="6886" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="searchwithoutPrividinganyName()[pri:3, instance:com.FWTestCases.SearchTest@43195e57]" started-at="2024-04-10T07:06:18 CDT" name="searchwithoutPrividinganyName" finished-at="2024-04-10T07:06:19 CDT" duration-ms="696" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchwithoutPrividinganyName -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.FWTestCases.SearchTest@43195e57]" started-at="2024-04-10T07:06:19 CDT" name="tearDown" finished-at="2024-04-10T07:06:19 CDT" duration-ms="275" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.FWTestCases.SearchTest -->
+      <class name="com.FWTestCases.RegisterTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.FWTestCases.RegisterTest@4a94ee4]" started-at="2024-04-10T07:06:19 CDT" name="setup" finished-at="2024-04-10T07:06:26 CDT" duration-ms="6596" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="registerWithPersonalDetails()[pri:1, instance:com.FWTestCases.RegisterTest@4a94ee4]" started-at="2024-04-10T07:06:26 CDT" name="registerWithPersonalDetails" finished-at="2024-04-10T07:06:29 CDT" duration-ms="3314" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerWithPersonalDetails -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.FWTestCases.RegisterTest@4a94ee4]" started-at="2024-04-10T07:06:29 CDT" name="tearDown" finished-at="2024-04-10T07:06:29 CDT" duration-ms="253" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.FWTestCases.RegisterTest@4a94ee4]" started-at="2024-04-10T07:06:29 CDT" name="setup" finished-at="2024-04-10T07:06:36 CDT" duration-ms="6491" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="registerFillingAllDetails()[pri:2, instance:com.FWTestCases.RegisterTest@4a94ee4]" started-at="2024-04-10T07:06:36 CDT" name="registerFillingAllDetails" finished-at="2024-04-10T07:06:39 CDT" duration-ms="3336" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerFillingAllDetails -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.FWTestCases.RegisterTest@4a94ee4]" started-at="2024-04-10T07:06:39 CDT" name="tearDown" finished-at="2024-04-10T07:06:39 CDT" duration-ms="305" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.FWTestCases.RegisterTest@4a94ee4]" started-at="2024-04-10T07:06:39 CDT" name="setup" finished-at="2024-04-10T07:06:45 CDT" duration-ms="5330" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="registerWithExistingCredentials()[pri:3, instance:com.FWTestCases.RegisterTest@4a94ee4]" started-at="2024-04-10T07:06:45 CDT" name="registerWithExistingCredentials" finished-at="2024-04-10T07:06:50 CDT" duration-ms="5075" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerWithExistingCredentials -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.FWTestCases.RegisterTest@4a94ee4]" started-at="2024-04-10T07:06:50 CDT" name="tearDown" finished-at="2024-04-10T07:06:50 CDT" duration-ms="298" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.FWTestCases.RegisterTest@4a94ee4]" started-at="2024-04-10T07:06:50 CDT" name="setup" finished-at="2024-04-10T07:06:55 CDT" duration-ms="4915" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="registerWithoutProvidingCredentials()[pri:4, instance:com.FWTestCases.RegisterTest@4a94ee4]" started-at="2024-04-10T07:06:55 CDT" name="registerWithoutProvidingCredentials" finished-at="2024-04-10T07:06:59 CDT" duration-ms="3535" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerWithoutProvidingCredentials -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.FWTestCases.RegisterTest@4a94ee4]" started-at="2024-04-10T07:06:59 CDT" name="tearDown" finished-at="2024-04-10T07:06:59 CDT" duration-ms="279" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.FWTestCases.RegisterTest -->
+      <class name="com.FWTestCases.LoginTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.FWTestCases.LoginTest@4cc451f2]" started-at="2024-04-10T07:06:59 CDT" name="setup" finished-at="2024-04-10T07:07:05 CDT" duration-ms="6453" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLoginwithValidCredentials()[pri:1, instance:com.FWTestCases.LoginTest@4cc451f2]" started-at="2024-04-10T07:07:05 CDT" name="verifyLoginwithValidCredentials" finished-at="2024-04-10T07:07:07 CDT" duration-ms="2087" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginwithValidCredentials -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.FWTestCases.LoginTest@4cc451f2]" started-at="2024-04-10T07:07:07 CDT" name="tearDown" finished-at="2024-04-10T07:07:08 CDT" duration-ms="259" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.FWTestCases.LoginTest@4cc451f2]" started-at="2024-04-10T07:07:08 CDT" name="setup" finished-at="2024-04-10T07:07:14 CDT" duration-ms="6373" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLoginwithInValidEmailAndValidPassword()[pri:2, instance:com.FWTestCases.LoginTest@4cc451f2]" started-at="2024-04-10T07:07:14 CDT" name="verifyLoginwithInValidEmailAndValidPassword" finished-at="2024-04-10T07:07:16 CDT" duration-ms="2014" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginwithInValidEmailAndValidPassword -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.FWTestCases.LoginTest@4cc451f2]" started-at="2024-04-10T07:07:16 CDT" name="tearDown" finished-at="2024-04-10T07:07:16 CDT" duration-ms="275" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.FWTestCases.LoginTest@4cc451f2]" started-at="2024-04-10T07:07:16 CDT" name="setup" finished-at="2024-04-10T07:07:23 CDT" duration-ms="6424" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLoginwithInValidCredentials()[pri:3, instance:com.FWTestCases.LoginTest@4cc451f2]" started-at="2024-04-10T07:07:23 CDT" name="verifyLoginwithInValidCredentials" finished-at="2024-04-10T07:07:25 CDT" duration-ms="1917" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginwithInValidCredentials -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.FWTestCases.LoginTest@4cc451f2]" started-at="2024-04-10T07:07:25 CDT" name="tearDown" finished-at="2024-04-10T07:07:25 CDT" duration-ms="295" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.FWTestCases.LoginTest@4cc451f2]" started-at="2024-04-10T07:07:25 CDT" name="setup" finished-at="2024-04-10T07:07:32 CDT" duration-ms="6645" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLoginwithValidEmailAndInValidPassword()[pri:4, instance:com.FWTestCases.LoginTest@4cc451f2]" started-at="2024-04-10T07:07:32 CDT" name="verifyLoginwithValidEmailAndInValidPassword" finished-at="2024-04-10T07:07:34 CDT" duration-ms="2047" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginwithValidEmailAndInValidPassword -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.FWTestCases.LoginTest@4cc451f2]" started-at="2024-04-10T07:07:34 CDT" name="tearDown" finished-at="2024-04-10T07:07:34 CDT" duration-ms="298" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.FWTestCases.LoginTest@4cc451f2]" started-at="2024-04-10T07:07:34 CDT" name="setup" finished-at="2024-04-10T07:07:38 CDT" duration-ms="4458" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLoginwithoutProvidingCredentials()[pri:5, instance:com.FWTestCases.LoginTest@4cc451f2]" started-at="2024-04-10T07:07:38 CDT" name="verifyLoginwithoutProvidingCredentials" finished-at="2024-04-10T07:07:41 CDT" duration-ms="2913" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginwithoutProvidingCredentials -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.FWTestCases.LoginTest@4cc451f2]" started-at="2024-04-10T07:07:41 CDT" name="tearDown" finished-at="2024-04-10T07:07:42 CDT" duration-ms="281" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.FWTestCases.LoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
